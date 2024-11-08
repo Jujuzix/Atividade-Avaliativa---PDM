@@ -1,5 +1,5 @@
 let cacheName = "Atividade Avaliativa";
-let filesToCache = ["/", "/index.html", "index.html", "index.html", "hrAulas.html", "hrAulas", "hrPE.html", "hrPE",
+let filesToCache = ["/", "/index.html", "/hrAulas", "/hrPE",
                             "/css/style1.css", "/css/style2.css", "/css/style3.css", "/js/main.js"];
 
 self.addEventListener("install", (e) => {
